@@ -6,7 +6,7 @@ import pandas as pd
 import os
 
 # Replace 'YOUR_GOOGLE_MAPS_API_KEY' with your actual Google Maps API key
-API_KEY = 'AIzaSyD_pf3IGmawiDTsOjSHo8zTzqsju0x34LU'
+API_KEY = ''
 gmaps = googlemaps.Client(key=API_KEY)
 
 # Your home view
